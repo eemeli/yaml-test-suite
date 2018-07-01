@@ -16,6 +16,7 @@
 
 --- in-json
 "Bare document"
+null
 "%!PS-Adobe-2.0 # Not the first line\n"
 
 --- out-yaml(<)
